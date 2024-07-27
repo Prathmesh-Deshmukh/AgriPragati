@@ -45,7 +45,7 @@ Agriculture is a significant economic sector in every country. Our project, the 
 
 ## Circuit Diagram
 Circuit Diagram
-![Circuit Diagram](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/circuit%20diagram.png =250x250)
+![Circuit Diagram](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/circuit%20diagram.png=250x250)
 
 Main Circuit
 ![Main Circuit](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/main_circuit_digram.png)
