@@ -44,10 +44,10 @@ Agriculture is a significant economic sector in every country. Our project, the 
 - **Server**: ThingSpeak for data monitoring and analysis
 
 ## Circuit Diagram
-- **Circtui Diagram**
+Circuit Diagram
 ![Circuit Diagram](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/circuit%20diagram.png)
 
-- **Main Circuit**
+Main Circuit
 ![Main Circuit](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/main_circuit_digram.png)
 
 ## Results
@@ -56,7 +56,7 @@ Data visualizations on the ThingSpeak server:
 - Potassium and Temperature levels
 - Soil Moisture and pH levels
 
-- **Output**
+Output
 ![output](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/Applet%20Output%20SS.png)
 
 ## Advantages
