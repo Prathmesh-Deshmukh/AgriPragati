@@ -32,6 +32,8 @@ Agriculture is a significant economic sector in every country. Our project, the 
 6. **Model Evaluation**: Assess the model's accuracy and performance using a testing dataset.
 7. **Deployment**: Implement the trained model for real-time crop prediction and fertilizer recommendation.
 
+   ![Methodology](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/methodology.png)
+
 ## System Components
 - **Sensors**:
   - Capacitive Soil Moisture Sensor
@@ -42,7 +44,10 @@ Agriculture is a significant economic sector in every country. Our project, the 
 - **Server**: ThingSpeak for data monitoring and analysis
 
 ## Circuit Diagram
+- **Circtui Diagram**
 ![Circuit Diagram](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/circuit%20diagram.png)
+
+- **Main Circuit**
 ![Main Circuit](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/main_circuit_digram.png)
 
 ## Results
@@ -50,6 +55,9 @@ Data visualizations on the ThingSpeak server:
 - Nitrogen and Phosphorus levels
 - Potassium and Temperature levels
 - Soil Moisture and pH levels
+
+- **Output**
+![output](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/Applet%20Output%20SS.png)
 
 ## Advantages
 - **Real-time Data**: Provides farmers with immediate information on soil nutrient levels and crop predictions.
