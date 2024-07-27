@@ -10,7 +10,6 @@
 - [Advantages](#advantages)
 - [Future Scope](#future-scope)
 - [Conclusion](#conclusion)
-- [Contributors](#contributors)
 - [References](#references)
 
 ## Introduction
@@ -43,8 +42,8 @@ Agriculture is a significant economic sector in every country. Our project, the 
 - **Server**: ThingSpeak for data monitoring and analysis
 
 ## Circuit Diagram
-![Circuit Diagram](path/to/circuit_diagram.png)
-![Main Circuit](path/to/main_circuit.png)
+![Circuit Diagram](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/circuit%20diagram.png)
+![Main Circuit](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/main_circuit_digram.png)
 
 ## Results
 Data visualizations on the ThingSpeak server:
