@@ -19,7 +19,6 @@ Agriculture is a significant economic sector in every country. Our project, the 
 - **Real-time Soil Monitoring**: Measures soil nutrient content (NPK), moisture, and temperature.
 - **Crop Prediction**: Uses machine learning algorithms to predict suitable crops based on soil conditions.
 - **Fertilizer Recommendation**: Suggests appropriate fertilizers to optimize crop yield.
-- **User-friendly Interface**: Accessible through a mobile app or web-based dashboard. (he change karayach ki asach thevayach bagh tu)
 - **Cost-effective**: Reduces the need for manual soil sampling and laboratory testing.
 - **Sustainable Agriculture**: Promotes efficient use of fertilizers and reduces environmental impact.
 
