@@ -44,8 +44,8 @@ Agriculture is a significant economic sector in every country. Our project, the 
 - **Server**: ThingSpeak for data monitoring and analysis
 
 ## Circuit Diagram
-Circuit Diagram
-![Circuit Diagram](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/circuit%20diagram.png=250x250)
+Circuit Diagram <br>
+![Circuit Diagram](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/circuit%20diagram.png)
 
 Main Circuit
 ![Main Circuit](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/main_circuit_digram.png)
