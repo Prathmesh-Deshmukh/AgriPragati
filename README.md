@@ -45,10 +45,10 @@ Agriculture is a significant economic sector in every country. Our project, the 
 
 ## Circuit Diagram
 - **Circtui Diagram**
-![Circuit Diagram](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/circuit%20diagram.png)
+![Circuit Diagram](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/circuit%20diagram.png)
 
 - **Main Circuit**
-![Main Circuit](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/main_circuit_digram.png)
+![Main Circuit](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/main_circuit_digram.png)
 
 ## Results
 Data visualizations on the ThingSpeak server:
