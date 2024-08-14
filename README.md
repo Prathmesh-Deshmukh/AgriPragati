@@ -33,6 +33,7 @@ Agriculture is a significant economic sector in every country. Our project, the 
 
 <div align="center">
     <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/methodology.png" width="600" height="400" alt="Methodology">
+    <br> Fig. 1: Methodology Overview
 </div>
 
 ## System Components
@@ -48,12 +49,14 @@ Agriculture is a significant economic sector in every country. Our project, the 
 
 <div align="center">
     <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/circuit%20diagram.png" width="600" height="400" alt="Circuit Diagram">
+    <br> Fig. 2: Circuit Diagram
 </div>
 
 ## Main Circuit
 
 <div align="center">
     <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/main_circuit_digram.png" width="600" height="400" alt="Main Circuit">
+    <br> Fig. 3: Main Circuit
 </div>
 
 ## Results
@@ -64,6 +67,7 @@ Data visualizations on the ThingSpeak server:
 
 <div align="center">
     <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/Applet%20Output%20SS.png" width="400" height="400" alt="Output">
+    <br> Fig. 4: ThingSpeak Data Visualization
 </div>
 
 ## Advantages
