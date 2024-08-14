@@ -57,7 +57,7 @@ Data visualizations on the ThingSpeak server:
 - Soil Moisture and pH levels
 
 Output <br>
-<img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/Applet%20Output%20SS.png" width="600" height="400" alt="Methodology">
+<img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/Applet%20Output%20SS.png" width="400" height="400" alt="Methodology">
 
 ## Advantages
 - **Real-time Data**: Provides farmers with immediate information on soil nutrient levels and crop predictions.
