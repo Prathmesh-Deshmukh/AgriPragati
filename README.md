@@ -31,8 +31,9 @@ Agriculture is a significant economic sector in every country. Our project, the 
 6. **Model Evaluation**: Assess the model's accuracy and performance using a testing dataset.
 7. **Deployment**: Implement the trained model for real-time crop prediction and fertilizer recommendation.
 
-<img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/methodology.png" width="600" height="400" alt="Methodology">
-
+<div align="center">
+    <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/methodology.png" width="600" height="400" alt="Methodology">
+</div>
 
 ## System Components
 - **Sensors**:
@@ -44,11 +45,14 @@ Agriculture is a significant economic sector in every country. Our project, the 
 - **Server**: ThingSpeak for data monitoring and analysis
 
 ## Circuit Diagram
-Circuit Diagram <br>
-   <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/circuit%20diagram.png" width="600" height="400" alt="Methodology">
 
-Main Circuit <br>
-   <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/main_circuit_digram.png" width="600" height="400" alt="Methodology">
+<div align="center">
+    <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/circuit%20diagram.png" width="600" height="400" alt="Circuit Diagram">
+</div>
+
+<div align="center">
+    <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/main_circuit_digram.png" width="600" height="400" alt="Main Circuit">
+</div>
 
 ## Results
 Data visualizations on the ThingSpeak server:
@@ -56,8 +60,9 @@ Data visualizations on the ThingSpeak server:
 - Potassium and Temperature levels
 - Soil Moisture and pH levels
 
-Output <br>
-<img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/Applet%20Output%20SS.png" width="400" height="400" alt="Methodology">
+<div align="center">
+    <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/Applet%20Output%20SS.png" width="400" height="400" alt="Output">
+</div>
 
 ## Advantages
 - **Real-time Data**: Provides farmers with immediate information on soil nutrient levels and crop predictions.
