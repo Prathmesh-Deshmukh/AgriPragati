@@ -31,7 +31,7 @@ Agriculture is a significant economic sector in every country. Our project, the 
 6. **Model Evaluation**: Assess the model's accuracy and performance using a testing dataset.
 7. **Deployment**: Implement the trained model for real-time crop prediction and fertilizer recommendation.
 
-<img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/methodology.png" width="600" height="400" alt="Methodology">
+   <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/methodology.png" width="600" height="400" alt="Methodology">
 
 
 ## System Components
@@ -45,10 +45,10 @@ Agriculture is a significant economic sector in every country. Our project, the 
 
 ## Circuit Diagram
 Circuit Diagram <br>
-![Circuit Diagram](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/circuit%20diagram.png)
+   <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/circuit%20diagram.png" width="600" height="400" alt="Methodology">
 
 Main Circuit <br>
-![Main Circuit](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/main_circuit_digram.png)
+   <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/main_circuit_digram.png" width="600" height="400" alt="Methodology">
 
 ## Results
 Data visualizations on the ThingSpeak server:
@@ -57,7 +57,7 @@ Data visualizations on the ThingSpeak server:
 - Soil Moisture and pH levels
 
 Output <br>
-![output](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/Applet%20Output%20SS.png)
+<img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/Applet%20Output%20SS.png" width="600" height="400" alt="Methodology">
 
 ## Advantages
 - **Real-time Data**: Provides farmers with immediate information on soil nutrient levels and crop predictions.
