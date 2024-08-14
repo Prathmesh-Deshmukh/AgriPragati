@@ -31,7 +31,8 @@ Agriculture is a significant economic sector in every country. Our project, the 
 6. **Model Evaluation**: Assess the model's accuracy and performance using a testing dataset.
 7. **Deployment**: Implement the trained model for real-time crop prediction and fertilizer recommendation.
 
-   ![Methodology](https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/methodology.png)
+   <img src="https://github.com/Prathmesh-Deshmukh/AgriPragati_Project/blob/main/Img/methodology.png" width="600" height="400" alt="Methodology">
+
 
 ## System Components
 - **Sensors**:
